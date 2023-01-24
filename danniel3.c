@@ -1,4 +1,2 @@
-#pragma once
-
-#include danniel3.h
+#include "danniel3.h"
 
