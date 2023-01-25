@@ -10,7 +10,7 @@ jobs:
       matrix:
 # List of keymap json files to build
         file:
-        - danniel3.json
+        - danniel3/danniel3.json
 # End of json file list
 
     steps:
