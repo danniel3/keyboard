@@ -1,4 +1,6 @@
 danniel-1/*
+.build/*
+*.backup*
 
 obj_*
 *.hex
