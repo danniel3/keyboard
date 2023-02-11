@@ -2,3 +2,7 @@
 	path = qmk_firmware
 	url = https://github.com/qmk/qmk_firmware.git
 	shallow = true
+
+[submodule "zmk-config"]
+	path = zmk-config
+	url = git@github.com:danniel3/zmk-config.git
